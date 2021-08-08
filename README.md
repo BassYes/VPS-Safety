@@ -10,4 +10,4 @@
 
 * <strike>更改服务器ssh端口</strike>
 * <strike>更改服务器ssh密码</strike>
-* <strike>更改服务器ssh密匙并禁用登录密码</strike>
+* <strike>更改服务器ssh密钥并禁用登录密码</strike>
